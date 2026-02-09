@@ -46,3 +46,5 @@ Source: Kaggle – Olist Brazilian E-Commerce Dataset
 
 ## Author
 Sidramesh Mathapati
+
+_Last updated: Project finalized_
